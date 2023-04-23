@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Rust, Compiler, Mathematical Logics.
 - 💞️ I’m looking to collaborate on Rust/Python Open Source Projects.
 - 📫 How to reach me: chenchen_js_china@163.com, 0109chenchen@gmail.com
+- 🏃 My Strava Page: https://www.strava.com/athletes/100998855
 
 <!---
 mojave2/mojave2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
